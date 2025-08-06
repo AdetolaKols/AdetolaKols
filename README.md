@@ -15,7 +15,7 @@ I'm passionate about **cybersecurity** and enjoy getting hands-on with projects 
 
 ## ⚠️ DevSecOps Projects
 
-- **[IaC and Image Scan)](https://github.com/AdetolaKols/DevSecOps-Project)**
+- **[IaC and Image Scan](https://github.com/AdetolaKols/DevSecOps-Project)**
 
 <hr/>
 
