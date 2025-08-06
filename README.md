@@ -13,6 +13,10 @@ I'm passionate about **cybersecurity** and enjoy getting hands-on with projects 
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
+## ⚠️ DevSecOps Projects
+
+- **[IaC and Image Scan)](https://github.com/AdetolaKols/DevSecOps-Project)**
+
 <hr/>
 
 ## 🤳 Connect With Me
