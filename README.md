@@ -1,6 +1,9 @@
 # <a href="https://www.linkedin.com/in/adetola o. kolawole/">Adetola Kolawole</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about **cybersecurity** and enjoy getting hands-on with projects that tackle real-world challenges. Whether it's digging into **vulnerability management** or building tools for **threat detection**, I like exploring how to improve security workflows and stay ahead of evolving threats. Feel free to check out some of the work I’ve done. It’s all about making security more **efficient** and **effective**.
+I'm passionate about **cybersecurity** and bring a strong background in **data management** to the table. I enjoy working on hands-on projects that solve real-world problems, whether that’s improving **vulnerability management**, building **threat detection** tools, or aligning security controls with **data governance** practices.
+
+I’m especially interested in how secure data handling and classification can strengthen security workflows and reduce risk. You can check out some of my recent work—it's focused on making security more **practical**, **efficient**, and aligned with how data is actually used in organisations.
+
 
 
 
