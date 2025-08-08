@@ -11,7 +11,7 @@ I’m especially interested in how secure data handling and classification can s
 
 - **[Vulnerability Management Program Implementation](https://github.com/AdetolaKols/Vulnerability-Management-Program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
-- **[STIG Remediation)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[STIG Remediation](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
 
