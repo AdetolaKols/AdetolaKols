@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/adetola o. kolawole/">Adetola Kolawole</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/adetola o. kolawole/">Adetola Kolawole</a>'s Data and Cybersecurity Project Portfolio 🔐
 
 I'm passionate about **cybersecurity** and bring a strong background in **data management** to the table. I enjoy working on hands-on projects that solve real-world problems, whether that’s improving **vulnerability management**, building **threat detection** tools, or aligning security controls with **data governance** practices.
 
