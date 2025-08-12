@@ -2,7 +2,7 @@
 
 I'm passionate about **cybersecurity** and bring a strong background in **data management** to the table. I enjoy working on hands-on projects that solve real-world problems, whether that’s improving **vulnerability management**, building **threat detection** tools, or aligning security controls with **data governance** practices.
 
-I’m especially interested in how secure data handling and classification can strengthen security workflows and reduce risk. You can check out some of my recent work—it's focused on making security more **practical**, **efficient**, and aligned with how data is actually used in organisations.
+I’m especially interested in how secure data handling and classification can strengthen security workflows and reduce risk. You can check out some of my recent work, it's focused on making security more **practical**, **efficient**, and aligned with how data is actually used in organisations.
 
 
 
