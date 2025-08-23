@@ -16,7 +16,7 @@ I’m especially interested in how secure data handling and classification can s
 ## ⚠️ DevSecOps Projects
 
 - **[IaC and Image Scan](https://github.com/AdetolaKols/DevSecOps-Project)**
-- ***[Threat Modelling Workshop](https://github.com/AdetolaKols/Threat-Modelling-Project)**
+- **[Threat Modelling Workshop](https://github.com/AdetolaKols/Threat-Modelling-Project)**
 <hr/>
 
 ## 🤳 Connect With Me
