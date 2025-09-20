@@ -12,6 +12,9 @@ I’m especially interested in how secure data handling and classification can s
 - **[Vulnerability Management Program Implementation](https://github.com/AdetolaKols/Vulnerability-Management-Program)**
 - **[STIG Remediation](https://github.com/AdetolaKols/STIG-Remediation-Windows-10-WN10-00-000050)**
 
+## 🕵️ Threat Hunting Projects 
+- **Threat Hunt Report:** Unauthorised TOR Usage
+- **Threat Hunt Lab:** PowerShell Suspicious Web Request
 
 ## ⚠️ DevSecOps Projects
 
