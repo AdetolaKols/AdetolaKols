@@ -13,8 +13,7 @@ I’m especially interested in how secure data handling and classification can s
 - **[STIG Remediation](https://github.com/AdetolaKols/STIG-Remediation-Windows-10-WN10-00-000050)**
 
 ## 🕵️ Threat Hunting Projects 
-- **[Threat Hunt Report: Unauthorised TOR Usage](https://github.com/AdetolaKols/Threat-Hunting-Report-TOR)**
-- **Threat Hunt Lab:** PowerShell Suspicious Web Request
+
 
 ## ⚠️ DevSecOps Projects
 
