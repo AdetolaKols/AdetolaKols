@@ -13,7 +13,7 @@ I’m especially interested in how secure data handling and classification can s
 - **[STIG Remediation](https://github.com/AdetolaKols/STIG-Remediation-Windows-10-WN10-00-000050)**
 
 ## 🕵️ Threat Hunting Projects 
-
+- **[Threat Hunting - RDP Password Spray](https://github.com/AdetolaKols/Threat-Hunting-Projects/blob/main/RDP%20Password%20Spray%20(CTF).md)**
 
 ## ⚠️ DevSecOps Projects
 
