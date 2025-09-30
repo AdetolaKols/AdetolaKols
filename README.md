@@ -8,11 +8,11 @@ I am passionate about cybersecurity and leverage my background in data managemen
 
 | Skill | Associated Project |
 |-------|--------------------|
-| Vulnerability Management Program | Vulnerability Management Program Implementation |
-| Compliance & Hardening | STIG Remediation |
-| Threat Hunting (RDP & MITRE Mappings) | Threat Hunting – RDP Password Spray |
-| Secure Development Practices | IaC and Image Scan |
-| Risk & Threat Modeling | Threat Modelling Workshop |
+| Vulnerability Management Program | [Vulnerability Management Program Implementation](https://github.com/AdetolaKols/Vulnerability-Management-Program) |
+| Compliance & Hardening | [STIG Remediation](https://github.com/AdetolaKols/STIG-Remediation-Powershell) |
+| Threat Hunting (MITRE Mappings) | [Threat Hunting](https://github.com/AdetolaKols/Threat-Hunting-Projects) |
+| Secure Development Practices | [IaC and Image Scan](https://github.com/AdetolaKols/DevSecOps-Project) |
+| Risk & Threat Modeling | [Threat Modelling Workshop](https://github.com/AdetolaKols/Threat-Modelling-Project) |
 
 ---
 
