@@ -1,6 +1,6 @@
 # About Me  
 
-I am passionate about cybersecurity and leverage my background in data management to strengthen security operations. My work focuses on vulnerability management, threat hunting, and aligning security controls with governance practices. I enjoy hands-on projects that bring security closer to real-world needs—whether improving detection rules, enhancing visibility, or supporting incident response.  
+I am passionate about cybersecurity and leverage my background in data management to strengthen security operations. My work focuses on vulnerability management, threat hunting, and aligning security controls with governance practices. I enjoy hands-on projects that bring security closer to real-world needs, whether improving detection rules, enhancing visibility, or supporting incident response.  
 
 ---
 
