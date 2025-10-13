@@ -28,7 +28,7 @@ I am passionate about cybersecurity and leverage my background in data managemen
 `Microsoft Defender for Endpoint` 
 
 ### Cloud Security & Compliance  
-`Microsoft Azure` `Microsoft Defender for Cloud` `Tenable.io`  
+`Microsoft Azure` `Microsoft Defender for Cloud` `Tenable.io` `Visual Studio Code` `Docker`
 
 
 # 📜 Certifications  
