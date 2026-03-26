@@ -32,7 +32,7 @@ I am passionate about cybersecurity and leverage my background in data managemen
 
 
 # 📜 Certifications  
-
+- ISO 270001 Lead Auditor 
 - CompTIA Security+  
 - DAMA Certified Data Management Professional (CDMP)  
 
