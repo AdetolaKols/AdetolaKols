@@ -1,6 +1,6 @@
 # About Me  
 
-I am passionate about cybersecurity and leverage my background in data management to strengthen security operations. My work focuses on vulnerability management, threat hunting, and aligning security controls with governance practices. I enjoy hands-on projects that bring security closer to real-world needs, whether improving detection rules, enhancing visibility, or supporting incident response.  
+GRC and Information Security professional with a background in data management, risk governance, and security operations. Experienced in implementing ISO 27001-aligned controls, conducting risk assessments, and developing compliance frameworks. My work spans vulnerability management, threat detection, policy development, and aligning security programmes with regulatory requirements. I enjoy hands-on projects that bring security closer to real-world needs, whether improving detection rules, enhancing visibility, or supporting incident response.  
 
 ---
 
@@ -10,10 +10,20 @@ I am passionate about cybersecurity and leverage my background in data managemen
 |-------|--------------------|
 | Vulnerability Management Program | [Vulnerability Management Program Implementation](https://github.com/AdetolaKols/Vulnerability-Management-Program) |
 | Compliance & Hardening | [Vulnerabilty Remediation](https://github.com/AdetolaKols/STIG-Remediation-Powershell) |
-| Threat Hunting (MITRE Mappings) | [Threat Detection and Analysis Project](https://github.com/AdetolaKols/Threat-Hunting-Projects) |
+| Threat Hunting (MITRE Mappings) | [Threat Detection and Analysis](https://github.com/AdetolaKols/Threat-Hunting-Projects) |
 | Secure Development Practices | [IaC and Image Scan](https://github.com/AdetolaKols/DevSecOps-Project) |
 | Risk & Threat Modeling | [Threat Modelling Workshop](https://github.com/AdetolaKols/Threat-Modelling-Project) |
 
+---
+
+| Framework / Standard | Application Area |
+|---|---|
+| ISO/IEC 27001 | Information Security Management System (ISMS) design, implementation & audit |
+| NIST CSF 2.0 | Cybersecurity risk identification, protection, detection, response & recovery |
+| CIS Controls v8 | Prioritised security controls implementation & benchmarking |
+| UK GDPR | Data protection compliance, privacy impact assessments & lawful processing |
+| Cyber Essentials & Cyber Essentials Plus | UK NCSC-backed baseline security controls & certification readiness |
+| NIS Regulations (UK) | Network & Information Systems resilience for critical services |
 ---
 
 # Tools & Technologies  
